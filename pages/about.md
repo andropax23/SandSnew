@@ -6,9 +6,5 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Sense and Solidarity is a research project headed by Dr. Kimberley McLeod and Dr. Kimberly Martin at the University of Guelph. The purpose of this project is to learn more about how safety and feelings of safety on college campuses are impacted by gendered and racialized violence. 
  
