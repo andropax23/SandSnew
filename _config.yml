@@ -2,6 +2,12 @@
 baseurl: ""
 url: "https://andropax23.github.io"
 
+# BLOG CONFIGURATION
+post_navigation: true
+paginate: 10
+paginate_path: "blog/page:num"
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+
 # THEME-SPECIFIC CONFIGURATION
 title: Sense and Solidarity                                    # site's title
 description: "A website with blog posts and pages"      # used by search engines
