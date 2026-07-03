@@ -7,5 +7,7 @@ gem 'base64'
 gem 'bigdecimal'
 
 # For github pages compatibility
-gem 'github-pages', group: :jekyll_plugins
-gemspec
+# gem 'github-pages', group: :jekyll_plugins
+# gemspec
+
+gem "type-on-strap"
