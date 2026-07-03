@@ -7,5 +7,5 @@ gem 'base64'
 gem 'bigdecimal'
 
 # For github pages compatibility
-# gem 'github-pages', group: :jekyll_plugins
+gem 'github-pages', group: :jekyll_plugins
 gemspec
